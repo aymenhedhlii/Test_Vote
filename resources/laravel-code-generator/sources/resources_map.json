@@ -1,0 +1,12 @@
+[
+    {
+        "model-name": "Reponse",
+        "resource-file": "reponses.json",
+        "table-name": "reponses"
+    },
+    {
+        "model-name": "ReponseAbonnes",
+        "resource-file": "reponse_abonnes.json",
+        "table-name": "reponse_abonnes"
+    }
+]
